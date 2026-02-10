@@ -1,8 +1,8 @@
 # name: discourse-prewrite-unescape
 # about: Replaces \u003e with > in post raw before saving
 # version: 1.0
-# authors: You
-# url: https://github.com/<YOU>/discourse-prewrite-unescape
+# authors: JesusBYS
+# url: https://github.com/JesusBYS/discourse-prewrite-unescape
 
 after_initialize do
   module ::PrewriteUnescape
